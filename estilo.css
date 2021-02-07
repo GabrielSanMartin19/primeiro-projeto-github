@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho {
+    background-color: #f3b43f;
+}
+
+header {
+    border: 1px solid black;
+}
+
+li {
+    display: inline;
+}
+
+li a {
+    width: 160px;
+    padding: 16px;
+    display: inline-block;
+    font-size: 20px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: white;
+    color: black;
+}
+
+p {
+    background-color: white;
+}
+
+#pagina {
+    background-color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#citar {
+    width: 700px;
+    border: 2px solid black;
+    background-color: #ccc0c0;
+    margin: auto;
+    display: block;
+}
+
+#decoration {
+    list-style-type: circle;
+    text-decoration: dashed;
+}
