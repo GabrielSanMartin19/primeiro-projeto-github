@@ -10,12 +10,18 @@
 header {
     border: 1px solid black;
 }
+<<<<<<< HEAD
 
 li {
     display: inline;
 }
 
 li a {
+=======
+li {display: inline;}
+
+li a{
+>>>>>>> f3f1beb6faa5002b102763bcfaf09806aaa02fb9
     width: 160px;
     padding: 16px;
     display: inline-block;
@@ -38,6 +44,10 @@ p {
     background-color: white;
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
+<<<<<<< HEAD
+=======
+    
+>>>>>>> f3f1beb6faa5002b102763bcfaf09806aaa02fb9
 }
 
 #citar {
@@ -46,9 +56,12 @@ p {
     background-color: #ccc0c0;
     margin: auto;
     display: block;
+<<<<<<< HEAD
 }
 
 #decoration {
     list-style-type: circle;
     text-decoration: dashed;
+=======
+>>>>>>> f3f1beb6faa5002b102763bcfaf09806aaa02fb9
 }
